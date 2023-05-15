@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_cocktailDB/static/css/main.dd731130.css",
-    "main.js": "/react_cocktailDB/static/js/main.66e30404.js",
+    "main.js": "/react_cocktailDB/static/js/main.995cdebe.js",
     "static/media/logo.jpg": "/react_cocktailDB/static/media/logo.6a7758e91a5a505425a4.jpg",
     "index.html": "/react_cocktailDB/index.html",
     "main.dd731130.css.map": "/react_cocktailDB/static/css/main.dd731130.css.map",
-    "main.66e30404.js.map": "/react_cocktailDB/static/js/main.66e30404.js.map"
+    "main.995cdebe.js.map": "/react_cocktailDB/static/js/main.995cdebe.js.map"
   },
   "entrypoints": [
     "static/css/main.dd731130.css",
-    "static/js/main.66e30404.js"
+    "static/js/main.995cdebe.js"
   ]
 }
