@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chrisalee/react_cocktailDB/static/css/main.dd731130.css",
+    "main.js": "/chrisalee/react_cocktailDB/static/js/main.a7918aa9.js",
+    "static/media/logo.jpg": "/chrisalee/react_cocktailDB/static/media/logo.6a7758e91a5a505425a4.jpg",
+    "index.html": "/chrisalee/react_cocktailDB/index.html",
+    "main.dd731130.css.map": "/chrisalee/react_cocktailDB/static/css/main.dd731130.css.map",
+    "main.a7918aa9.js.map": "/chrisalee/react_cocktailDB/static/js/main.a7918aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd731130.css",
+    "static/js/main.a7918aa9.js"
+  ]
+}
