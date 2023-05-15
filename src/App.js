@@ -11,9 +11,10 @@ const App = () => {
     <Router>
       <Navbar/>
       <Routes>
-        <Route path="/" element={<Home/>} />
-        <Route path="/about" element={<About/>} />
-        <Route path='/cocktail/:id' element={<SingleCocktail/>} />
+        <Route path="/react_cocktailDB" element={<Home/>}  />
+        <Route path="/react_cocktailDB/about" element={<About/>} />
+        <Route path='/react_cocktailDB/cocktail/:id' element={<SingleCocktail/>} />
+        <Route path="/" element={<Home/>} exact />
       </Routes>
     </Router>
   );
